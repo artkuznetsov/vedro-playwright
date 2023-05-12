@@ -1,0 +1,3 @@
+jj==2.6.0
+vedro==1.6.0
+vedro-playwright==1.1.0
