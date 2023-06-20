@@ -86,3 +86,5 @@ $ vedro run --playwright-screenshots=on_fail
 ### Playwright
 
 Documentation for Playwright available [here](https://playwright.dev/python/docs/intro)
+
+Enjoy!
